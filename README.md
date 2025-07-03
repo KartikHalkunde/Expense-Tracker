@@ -16,6 +16,24 @@ It saves your expenses in **JSON**, exports to **Excel**, and provides clear sum
 
 ---
 
+## ! Demo
+
+Here’s what to expect:
+
+![Expense Tracker Menu](demo/demo1.png)
+*Main Menu*
+
+![Summary Example](demo/demo2.png)
+*Summary Report*
+
+![Excel Support](demo/demo3.png)
+*Expenses data stored in Excel sheet autonatically*
+
+![Json used to store data](demo/demo4.png)
+*Data is handled in the json file*
+
+---
+
 ## ? Under the Hood
 
 **Uses**
