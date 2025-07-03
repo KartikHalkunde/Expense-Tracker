@@ -21,10 +21,15 @@ It saves your expenses in **JSON**, exports to **Excel**, and provides clear sum
 Here’s what to expect:
 
 ![Expense Tracker Menu](demo/demo1.png)
-*Main Menu*
+*Main Menu showing overview of the tasks performed by the program*
 
 ![Summary Example](demo/demo2.png)
-*Summary Report*
+*A full fledge summary of all your expenses, showing.. 
+1. Category wise spending
+2. Total amount spent
+3. Your biggest expense
+4. Recent expense data overview (Day/Week/Month)
+5. Trend hints *
 
 ![Excel Support](demo/demo3.png)
 *Expenses data stored in Excel sheet autonatically*
