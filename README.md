@@ -2,6 +2,7 @@
 
 A simple command-line **Expense Tracker** I built using **Python** to **log**, **categorize**, and **analyze** your late night cravings...
 It saves your expenses in **JSON**, exports to **Excel**, and provides clear summaries with trends to help you manage your money better.
+![Spongebob](demo/spongebob.png)
 
 ---
 
@@ -20,22 +21,28 @@ It saves your expenses in **JSON**, exports to **Excel**, and provides clear sum
 
 Here’s what to expect:
 
+---
+### *Main Menu showing overview of the tasks performed by the program:*
 ![Expense Tracker Menu](demo/demo1.png)
-*Main Menu showing overview of the tasks performed by the program*
 
+---
+### *A full fledge summary of all your expenses, showing..*
+* 1. Category wise spending
+* 2. Total amount spent
+* 3. Your biggest expense
+* 4. Recent expense data overview (Day/Week/Month)
+* 5. Trend hints
+ 
 ![Summary Example](demo/demo2.png)
-*A full fledge summary of all your expenses, showing.. 
-1. Category wise spending
-2. Total amount spent
-3. Your biggest expense
-4. Recent expense data overview (Day/Week/Month)
-5. Trend hints *
+
+---
+### *Expenses data stored in Excel sheet autonatically*
 
 ![Excel Support](demo/demo3.png)
-*Expenses data stored in Excel sheet autonatically*
+---
+### *Data is handled in the json file*
 
 ![Json used to store data](demo/demo4.png)
-*Data is handled in the json file*
 
 ---
 
